@@ -4,6 +4,6 @@
   [[ 📋 Currículo ](https://willpinha.github.io/curriculo)] •
   [[ 💼 LinkedIn ](https://www.linkedin.com/in/willpinha)] •
   [[ 🎓 Projetos USP ](https://github.com/willpinha?tab=repositories&q=usp)] •
-  [[ 💻 Repositórios ](https://github.com/willpinha?tab=repositories)]
+  [[ 💻 Projetos pessoais ](https://github.com/willpinha?tab=repositories&q=my)]
   
 </div>
