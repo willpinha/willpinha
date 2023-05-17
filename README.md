@@ -1,1 +1,1 @@
-![willpinha](https://github-readme-activity-graph.cyclic.app/graph?username=willpinha&theme=github-compact&radius=6)
+![willpinha](https://github-readme-activity-graph.cyclic.app/graph?username=willpinha&theme=github-compact&radius=8)
