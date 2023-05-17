@@ -1,8 +1,9 @@
 <div align="center">
   
-  [🧑‍💻 [Portfólio]]() •
-  [📋 [Currículo]]() •
-  [🎓 [Trabalhos USP]]() •
-  [💻 [Projetos pessoais]]()
+  [[ 🧑‍💻 Portfólio ]]() •
+  [[ 📋 Currículo ]]() •
+  [[ 💼 LinkedIn ]]() •
+  [[ 🎓 Trabalhos USP ]]() •
+  [[ 💻 Projetos pessoais ]]()
   
 </div>
