@@ -1,1 +1,1 @@
-![willpinha](https://github-readme-activity-graph.cyclic.app/graph?username=willpinha&theme=github-compact&radius=8&hide_border=true&area=true&custom_title=My%20contributions%20(last%2030%20days))
+![willpinha](https://github-readme-activity-graph.cyclic.app/graph?username=willpinha&theme=github-compact&radius=8&hide_border=true&area=true&custom_title=My%20contributions%20(last%2030%20days)&height=300)
