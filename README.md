@@ -1,8 +1,8 @@
 <div align="center">
   
-  [[ 🧑‍💻 Portfólio ]()] •
-  [[ 📋 Currículo ]()] •
-  [[ 💼 LinkedIn ]()] •
+  [[ 🧑‍💻 Portfólio ](https://willpinha.github.io/portfolio)] •
+  [[ 📋 Currículo ](https://willpinha.github.io/curriculo)] •
+  [[ 💼 LinkedIn ](https://www.linkedin.com/in/willpinha)] •
   [[ 🎓 Trabalhos USP ]()] •
   [[ 💻 Projetos pessoais ]()]
   
