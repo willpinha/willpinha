@@ -3,6 +3,6 @@
   [🧑‍💻 [Portfólio]]() •
   [📋 [Currículo]]() •
   [🎓 [Trabalhos USP]]() •
-  [💻 [Repositórios]]()
+  [💻 [Projetos pessoais]]()
   
 </div>
