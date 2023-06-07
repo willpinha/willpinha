@@ -1,1 +1,4 @@
-![willpinha](https://github-readme-activity-graph.vercel.app/graph?username=willpinha&theme=github-compact&radius=8&hide_border=true&area=true&custom_title=My%20contributions%20(last%2030%20days)&height=300)
+![willpinha](https://github-readme-activity-graph.vercel.app/graph?username=willpinha&theme=github-compact&radius=8&hide_border=true&area=true&custom_title=Minhas%20contribuições%20(últimos%2030%20dias)&height=300)
+
+> **Note**
+> Boa parte dessas contribuições são geradas a partir do backup das [minhas notas no Obsidian]() 
