@@ -19,7 +19,7 @@ Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 
 **Famous repositories**
 
 |Repository|Stars|
-|---|---|---|
+|---|---|
 {{~ for repository in famous_repositories ~}}
 |[{{ repository.full_name }}]({{ repository.html_url }})|{{ repository.stargazers_count }}|
 {{~ end ~}}
