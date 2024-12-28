@@ -6,7 +6,7 @@ Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 
 - [🇧🇷 Curriculum]()
 - [🇺🇸 Curriculum]()
 
-**Latest commits (public-only)**
+**Latest commits**
 
 **Latest discussions**
 
