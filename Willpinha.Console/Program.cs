@@ -26,8 +26,6 @@ var latestIssues = await Requests.GetLatestIssues();
 var templateContent = await File.ReadAllTextAsync("Willpinha.Console/Templates/README.scriban");
 var template = Template.Parse(templateContent);
 
-Console.WriteLine(templateContent);
-
 var result = await template.RenderAsync(new
 {
     famousRepositories = famousRepositories.Items,
@@ -35,9 +33,7 @@ var result = await template.RenderAsync(new
     latestIssues = latestIssues.Items
 });
 
-var overrideReadme = Environment.GetEnvironmentVariable("OVERRIDE_README");
-
-var target = !string.IsNullOrEmpty(overrideReadme) ? "README.md" : "README.test.md";
+var target = args.Any(x => x == "OVERRIDE_README") ? "README.md" : "README.test.md";
 
 await File.WriteAllTextAsync(target, result);
 

@@ -26,7 +26,7 @@ jobs:
           echo "OVERRIDE_README" >> $GITHUB_ENV
 
       - name: Run the console application
-        run: dotnet run --project Willpinha.Console
+        run: dotnet run --project Willpinha.Console -- OVERRIDE_README
 
       - name: Configure Git
         run: |
