@@ -21,9 +21,7 @@ jobs:
         run: dotnet restore
 
       - name: Set environment variables
-        run: |
-          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
-          echo "OVERRIDE_README" >> $GITHUB_ENV
+        run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
 
       - name: Run the console application
         run: dotnet run --project Willpinha.Console -- OVERRIDE_README
