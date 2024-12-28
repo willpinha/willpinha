@@ -18,6 +18,12 @@ Auto generated [README](https://github.com/willpinha/willpinha), made with C# an
   - [Hello World]() <sub>12/09/2024 16:25:08 +00:00</sub>
   - [Hello World]() <sub>12/09/2024 16:25:08 +00:00</sub>
   - [Hello World]() <sub>12/09/2024 16:25:08 +00:00</sub>
+- **Latest blog posts**
+  - [This is a blog post]() <sub>12/09/2024 16:25:08 +00:00</sub>
+  - [This is a blog post]() <sub>12/09/2024 16:25:08 +00:00</sub>
+  - [This is a blog post]() <sub>12/09/2024 16:25:08 +00:00</sub>
+  - [This is a blog post]() <sub>12/09/2024 16:25:08 +00:00</sub>
+  - [This is a blog post]() <sub>12/09/2024 16:25:08 +00:00</sub>
 - **Famous repositories**
   - [Hello World]() <sub>324 stars</sub>
   - [Hello World]() <sub>50 stars</sub>
