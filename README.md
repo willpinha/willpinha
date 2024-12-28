@@ -1,6 +1,3 @@
-
-
-
 > [!IMPORTANT]
 > Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
 >
@@ -8,6 +5,12 @@
 
 [LinkedIn]() • [Youtube]() • [Blog]() • [pinha.link]() • [pinha.systems]()
 
+- **Top YouTube videos**
+  - [This is a video]() <sub>1572 views</sub>
+  - [This is a video]() <sub>520 views</sub>
+  - [This is a video]() <sub>200 views</sub>
+  - [This is a video]() <sub>43 views</sub>
+  - [This is a video]() <sub>10 views</sub>
 - **Top repositories**
   - [Hello World]() <sub>324 stars</sub>
   - [Hello World]() <sub>50 stars</sub>
