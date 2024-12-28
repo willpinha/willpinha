@@ -37,7 +37,7 @@ var result = await template.RenderAsync(new
 
 var overrideReadme = Environment.GetEnvironmentVariable("OVERRIDE_README");
 
-var target = overrideReadme is not null && overrideReadme == "true" ? "README.md" : "README.test.md";
+var target = !string.IsNullOrEmpty(overrideReadme) ? "README.md" : "README.test.md";
 
 await File.WriteAllTextAsync(target, result);
 
