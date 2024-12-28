@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
+> ![](https://github.com/user-attachments/assets/ae4e231b-5088-46bc-94df-8b3a5af3ac7e) Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
 >
 > <sub>Last updated at 10/07/2024 5:00 AM (UTC)</sub>
 
