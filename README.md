@@ -1,10 +1,12 @@
 Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 AM (UTC)*
 
-- [LinkedIn]()
-- [Youtube]()
-- [Instagram]()
+- [Pinha Systems](https://pinha.systems)
+- [Portfolio](https://pinha.link)
 - [🇧🇷 Curriculum]()
 - [🇺🇸 Curriculum]()
+- [LinkedIn]()
+- [Instagram]()
+- [Youtube]()
 
 **Latest commits**
 
