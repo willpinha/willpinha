@@ -2,9 +2,9 @@
 
 
 > [!IMPORTANT]
-> <img width="16" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
+> Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
 >
-> <sub>Last updated at 10/07/2024 5:00 AM (UTC)</sub>
+> <sub><img width="13" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Last updated at 10/07/2024 5:00 AM (UTC)</sub>
 
 [LinkedIn]() • [Youtube]() • [Blog]() • [pinha.link]() • [pinha.systems]()
 
