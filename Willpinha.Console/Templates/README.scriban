@@ -1,3 +1,5 @@
+<div align="center">
+
 Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 AM (UTC)*
 
 **Activity**
@@ -18,3 +20,5 @@ Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 
 {{~ for repository in famous_repositories ~}}
 |[{{ repository.full_name }}]({{ repository.html_url }})|⭐ {{ repository.stargazers_count }}|
 {{~ end ~}}
+
+</div>
