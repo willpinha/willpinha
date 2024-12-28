@@ -1,0 +1,25 @@
+Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 AM (UTC)*
+
+**Latest pull requests activity**
+
+|Title|Updated at|
+|---|---|
+{{~ for pull_request in latest_pull_requests ~}}
+|[{{ pull_request.title }}]({{ pull_request.html_url }})|{{ pull_request.updated_at }}|
+{{~ end ~}}
+
+**Latest issues activity**
+
+|Title|Updated at|
+|---|---|
+{{~ for issue in latest_issues ~}}
+|[{{ issue.title }}]({{ issue.html_url }})|{{ issue.updated_at }}|
+{{~ end ~}}
+
+**Famous repositories**
+
+|Repository|Stars|
+|---|---|---|
+{{~ for repository in famous_repositories ~}}
+|[{{ repository.full_name }}]({{ repository.html_url }})|{{ repository.stargazers_count }}|
+{{~ end ~}}

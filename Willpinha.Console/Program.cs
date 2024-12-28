@@ -1,7 +1,10 @@
 ﻿using dotenv.net;
 
+using Scriban;
+
 using Willpinha.Console;
 
+// Don't forget to create a .env file based on the .env.example file during development
 DotEnv.Load();
 
 // Necessary to avoid rate limit
@@ -20,20 +23,17 @@ var famousRepositories = await Requests.GetFamousRepositories();
 var latestPullRequests = await Requests.GetLatestPullRequests();
 var latestIssues = await Requests.GetLatestIssues();
 
-Console.WriteLine("Famous repositories:");
-foreach (var repo in famousRepositories.Items)
-{
-    Console.WriteLine($"- {repo.Name} ({repo.StargazersCount} stars)");
-}
+var templateContent = await File.ReadAllTextAsync("Willpinha.Console/Templates/README.scriban");
+var template = Template.Parse(templateContent);
 
-Console.WriteLine("Latest pull requests:");
-foreach (var issue in latestPullRequests.Items)
-{
-    Console.WriteLine($"- {issue.Title} ({issue.UpdatedAt}) {issue.HtmlUrl}");
-}
+Console.WriteLine(templateContent);
 
-Console.WriteLine("Latest issues:");
-foreach (var issue in latestIssues.Items)
+var result = await template.RenderAsync(new
 {
-    Console.WriteLine($"- {issue.Title} ({issue.UpdatedAt}) {issue.HtmlUrl}");
-}
+    famousRepositories = famousRepositories.Items,
+    latestPullRequests = latestPullRequests.Items,
+    latestIssues = latestIssues.Items
+});
+
+await File.WriteAllTextAsync("README.test.md", result);
+

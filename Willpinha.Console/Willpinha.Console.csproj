@@ -10,6 +10,11 @@
   <ItemGroup>
     <PackageReference Include="dotenv.net" Version="3.2.1" />
     <PackageReference Include="Octokit" Version="13.0.1" />
+    <PackageReference Include="Scriban" Version="5.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Watch Include="**/*.scriban" />
   </ItemGroup>
 
 </Project>
