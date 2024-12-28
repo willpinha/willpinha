@@ -1,6 +1,6 @@
 Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET - Last updated at *10/07/2024 5:00 AM (UTC)*
 
-[LinkedIn]() • [Youtube]() • [pinha.link]() • [pinha.systems]()
+[LinkedIn]() • [Youtube]() • [Blog]() • [pinha.link]() • [pinha.systems]()
 
 - **Top repositories**
   - [Hello World]() <sub>324 stars</sub>
