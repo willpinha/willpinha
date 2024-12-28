@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md README.test.md
+          git add README.md
           git commit -m "Auto update README"
           git push
         env:
