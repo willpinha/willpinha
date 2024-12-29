@@ -31,7 +31,7 @@ Auto generated README, made with C# and .NET - Last updated at *10/07/2024 5:00 
 
 |Repository|Stars|
 |---|---|
-|[willpinha/daisy-components](https://github.com/willpinha/daisy-components)|⭐ 318|
+|[willpinha/daisy-components](https://github.com/willpinha/daisy-components)|⭐ 319|
 |[willpinha/mantine-themes](https://github.com/willpinha/mantine-themes)|⭐ 21|
 |[willpinha/oklch-color-shades](https://github.com/willpinha/oklch-color-shades)|⭐ 5|
 |[willpinha/willpinha](https://github.com/willpinha/willpinha)|⭐ 0|
