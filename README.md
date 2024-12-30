@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
 >
-> <sub><img width="13" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Last updated at 12/30/2024 12:11:38 +00:00</sub>
+> <sub><img width="13" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Last updated at 12/30/2024 13:10:38 +00:00</sub>
 
 [LinkedIn](https://www.linkedin.com/in/willpinha) • [Youtube]() • [Instagram]() • [Blog]() • [pinha.link](https://pinha.link) • [pinha.systems](https://pinha.systems)
 
@@ -13,8 +13,8 @@
   - [willpinha/oklch-color-shades](https://github.com/willpinha/oklch-color-shades) <sub>5 stars</sub>
   - [willpinha/willpinha](https://github.com/willpinha/willpinha) <sub>0 stars</sub>
 - **Latest issues**
+  - [Domain expired](https://github.com/willpinha/mantine-themes/issues/1) <sub>12/30/2024 12:35:39 +00:00</sub>
   - [UsePathBase not working for Blazor Web App NET8 with individual accounts interactivity mode server](https://github.com/dotnet/aspnetcore/issues/54723) <sub>12/19/2024 13:06:07 +00:00</sub>
-  - [Domain expired](https://github.com/willpinha/mantine-themes/issues/1) <sub>12/19/2024 08:27:37 +00:00</sub>
   - [About the image in README](https://github.com/catppuccin/daisyui/issues/41) <sub>11/12/2024 17:09:04 +00:00</sub>
   - [Request: table example](https://github.com/willpinha/daisy-components/issues/98) <sub>11/04/2024 21:34:43 +00:00</sub>
   - [Add list of components to add (Meraki UI, Mamba UI, ...)](https://github.com/willpinha/daisy-components/issues/97) <sub>11/04/2024 21:29:32 +00:00</sub>
