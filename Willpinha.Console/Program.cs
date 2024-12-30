@@ -28,6 +28,7 @@ var template = Template.Parse(templateContent);
 
 var result = await template.RenderAsync(new
 {
+    lastUpdated = DateTime.UtcNow.ToString("MM/dd/yyyy HH:mm:ss zzz"),
     famousRepositories = famousRepositories.Items,
     latestPullRequests = latestPullRequests.Items,
     latestIssues = latestIssues.Items
