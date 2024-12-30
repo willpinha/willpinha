@@ -9,7 +9,7 @@
   - In progress...
 - **Top repositories**
 {{~ for repository in famous_repositories ~}}
-  - [{{ repository.full_name }}]({{ repository.html_url }}) <sub>{{ repository.stargazers_count }}</sub>
+  - [{{ repository.full_name }}]({{ repository.html_url }}) <sub>{{ repository.stargazers_count }} stars</sub>
 {{~ end ~}}
 - **Total commits (last 5 years)**
   - 2024 <sub>1827 commits</sub>
