@@ -1,23 +1,17 @@
 > [!IMPORTANT]
 > Auto generated [README](https://github.com/willpinha/willpinha), made with C# and .NET
 >
-> <sub><img width="13" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Last updated at 12/30/2024 11:53:01 +00:00</sub>
+> <sub><img width="13" src="https://github.com/user-attachments/assets/6d399c07-c3a4-42dd-b41e-b82ff1a3336a" /> Last updated at 12/30/2024 12:08:35 +00:00</sub>
 
 [LinkedIn](https://www.linkedin.com/in/willpinha) • [Youtube]() • [Instagram]() • [Blog]() • [pinha.link](https://pinha.link) • [pinha.systems](https://pinha.systems)
 
 - **Top YouTube videos**
   - In progress...
 - **Top repositories**
-  - [willpinha/daisy-components](https://github.com/willpinha/daisy-components) <sub>319</sub>
-  - [willpinha/mantine-themes](https://github.com/willpinha/mantine-themes) <sub>21</sub>
-  - [willpinha/oklch-color-shades](https://github.com/willpinha/oklch-color-shades) <sub>5</sub>
-  - [willpinha/willpinha](https://github.com/willpinha/willpinha) <sub>0</sub>
-- **Total commits (last 5 years)**
-  - 2024 <sub>1827 commits</sub>
-  - 2023 <sub>30 commits</sub>
-  - 2022 <sub>18 commits</sub>
-  - 2021 <sub>4 commits</sub>
-  - 2020 <sub>0 commits</sub>
+  - [willpinha/daisy-components](https://github.com/willpinha/daisy-components) <sub>319 stars</sub>
+  - [willpinha/mantine-themes](https://github.com/willpinha/mantine-themes) <sub>21 stars</sub>
+  - [willpinha/oklch-color-shades](https://github.com/willpinha/oklch-color-shades) <sub>5 stars</sub>
+  - [willpinha/willpinha](https://github.com/willpinha/willpinha) <sub>0 stars</sub>
 - **Latest issues**
   - [UsePathBase not working for Blazor Web App NET8 with individual accounts interactivity mode server](https://github.com/dotnet/aspnetcore/issues/54723) <sub>12/19/2024 13:06:07 +00:00</sub>
   - [Domain expired](https://github.com/willpinha/mantine-themes/issues/1) <sub>12/19/2024 08:27:37 +00:00</sub>
