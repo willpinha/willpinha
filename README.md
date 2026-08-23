@@ -6,7 +6,9 @@ The information below is updated daily. Last updated at **2026/07/13 13:27 UTC**
 
 ## Latest *pull requests* I created [[see all]()]
 
-- [`#1234` Some pull request]()
+- [`#1234` Some pull request X]() (merged)
+- [`#124` Some pull request Y]() (closed)
+- [`#14` Some pull request Z]() (open)
 
 ## Latest *issues* I participated in [[see all]()]
 
