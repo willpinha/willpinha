@@ -1,7 +1,9 @@
-Last updated at 2026/07/13 13:27 UTC
+Last updated at **2026/07/13 13:27 UTC**
 
-## Top languages
+## Recent *pull requests* I created [[see all]()]
 
-1. **Go** [72.3%]
-2. **Java** [10.0%]
-3. **TypeScript** [0.1%]
+- [`#1234` Some pull request]()
+
+## Recent *issues* I participated in [[see all]()]
+
+- [`#12` Some issue]()
