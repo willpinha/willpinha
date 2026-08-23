@@ -3,6 +3,7 @@ The information below is updated daily. Last updated at **2026/07/13 13:27 UTC**
 ## 🗁 My most famous *repositories*
 
 - [willpinha/daisy-components]() (★ 437)
+- [willpinha/mantine-themes]() (★ 27)
 
 ## 🗁 Latest *pull requests* I created [[see all]()]
 
