@@ -1,4 +1,4 @@
-# Top languages
+### Top languages
 
 1. **Go** [72.3%]
 2. **Java** [10.0%]
